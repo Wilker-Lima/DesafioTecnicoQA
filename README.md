@@ -4,10 +4,9 @@ Automação do desafio técnico de QA na empresa MeuTudo.
 
 ## Índice
 
-- Instalação;
-- IDE'S
+- Instalação e Modo de Usar;
 
-## Instalação
+## Instalação e Modo de Usar
 
 1. Acesse o site oficial do Node.js em <https://nodejs.org/en/download/current> e baixe o instalador correspondente ao seu sistema operacional (Windows, macOS, Linux);
 2. Execute o instalador baixado e siga as instruções do assistente de instalação. Durante a instalação, você pode escolher as opções padrão ou personalizadas, dependendo das suas necessidades;
