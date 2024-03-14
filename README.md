@@ -16,7 +16,7 @@ Automação do desafio técnico de QA na empresa MeuTudo.
    2. npm -v
 4. Inicie o Visual Studio Code no seu sistema operacional, (caso não tenha, faça o donwload em <https://code.visualstudio.com/download>);
 5. Abra uma pasta no Visual Studio Code, vá até o menu "Arquivo" (File) e selecione "Abrir Pasta..." (Open Folder...), selecione a pasta CaseDois e depois siga o mesmo passo para a pasta CaseTres. Navegue até a pasta do seu projeto onde estão localizados os arquivos do Cypress e selecione-a. Clique em "Abrir" (Open) para carregar a pasta no VS Code;
-6. Após abrir o projeto no VSCode, abra o terminal e digite o seguinte comando para executar a automação do teste;
+6. Após abrir o projeto no VSCode, abra o terminal e digite o seguinte comando para execução da automação de teste;
    1. npx cypress open
    
 
